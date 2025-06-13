@@ -1,0 +1,3 @@
+# --- Youtube Companion Ad Blocker ---
+
+com.google.android.youtube##viewId=com.google.android.youtube:id/main_companion_container##blockTouches=true##color=000000##comment=Hide YouTube install banner on video pagesfeed
