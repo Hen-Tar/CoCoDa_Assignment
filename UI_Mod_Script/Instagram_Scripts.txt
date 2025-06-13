@@ -1,0 +1,23 @@
+# --- Instagram Engagement Blocker ---
+
+# --- Reels ---
+
+# Counts
+com.instagram.android##viewId=com.instagram.android:id/like_count##blockTouches=true##color=000000##comment=Block like count on Reels
+
+com.instagram.android##viewId=com.instagram.android:id/comment_count##blockTouches=true##color=000000##comment=Block comment count on Reels
+
+com.instagram.android##viewId=com.instagram.android:id/ufi_text_component##blockTouches=true##color=000000##comment=Block share count on Reels
+
+# Buttons
+com.instagram.android##viewId=com.instagram.android:id/like_button##blockTouches=true##color=00000000##comment=Block like button on Reels
+
+com.instagram.android##viewId=com.instagram.android:id/comment_button##blockTouches=true##color=00000000##comment=Block comment button on Reels
+
+com.instagram.android##viewId=com.instagram.android:id/direct_share_button##blockTouches=true##color=00000000##comment=Block share button on Reels
+
+com.instagram.android##viewId=com.instagram.android:id/clips_ufi_more_button_component##blockTouches=true##color=00000000##comment=Block more options in Reels
+
+# --- Instagram Feed Engagement Blocker ---
+
+com.instagram.android##viewId=com.instagram.android:id/row_feed_view_group_buttons##blockTouches=true##color=000000##comment=Hide entire engagement row in feed
