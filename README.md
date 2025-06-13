@@ -20,11 +20,11 @@ Our approach focuses on removing **like, comment, and share** buttons and counts
 
 | Reels Before | Reels After |
 |--------------|-------------|
-| ![Reels Before](images/INSTA_REELS_BEFORE.jpg) | ![Reels After](images/INSTA_REELS_AFTER.jpg) |
+| ![Reels Before](Images/INSTA_REELS_BEFORE.jpg) | ![Reels After](Images/INSTA_REELS_AFTER.jpg) |
 
 | Feed Before | Feed After |
 |-------------|------------|
-| ![Feed Before](images/INSTA_FEED_BEFORE.jpg) | ![Feed After](images/INSTA_FEED_AFTER.jpg) |
+| ![Feed Before](Images/INSTA_FEED_BEFORE.jpg) | ![Feed After](Images/INSTA_FEED_AFTER.jpg) |
 
 ---
 
@@ -36,7 +36,7 @@ Our approach focuses on removing **like, comment, and share** buttons and counts
 
 | YouTube Banner Before | YouTube Banner After |
 |------------------------|-----------------------|
-| ![YT Before](images/YOUTUBE_BANNER_BEFORE.jpg) | ![YT After](images/YOUTUBE_BANNER_AFTER.jpg) |
+| ![YT Before](Images/YOUTUBE_BANNER_BEFORE.jpg) | ![YT After](Images/YOUTUBE_BANNER_AFTER.jpg) |
 
 ---
 
