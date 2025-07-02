@@ -51,15 +51,5 @@ All rules use the GreaseMilkyway syntax:
 
 ---
 
-## Why This Matters
-
-Under **Article 34 of the EU Digital Services Act**, platforms are required to assess and mitigate systemic risks — including those linked to user attention and mental health.
-
-These rule sets provide a **user-driven, non-invasive** way to:
-- Minimize visual engagement triggers
-- Preserve functionality where needed
-- Empower user autonomy over app design
-
----
 
 
